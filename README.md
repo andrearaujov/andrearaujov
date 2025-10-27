@@ -57,11 +57,10 @@ Eu sou um Desenvolvedor de Software em busca de uma oportunidade de trabalho. So
 ---
 
 <div align="center">
-  <h3>🐍 Minha Trilha de Contribuições</h3>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake.svg">
-    </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/andrearaujov/andrearaujov/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/andrearaujov/andrearaujov/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/andrearaujov/andrearaujov/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
